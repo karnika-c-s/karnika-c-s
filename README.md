@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karnika C S</h1>
 <h3 align="center">I'm a highly motivated individual dedicated to excellence. With a passion for learning and a strong interest in analytics and software development, I excel in solving complex problems and delivering innovative solutions.</h3>
 
-- 💬 Ask me about **Python, C, HTML, CSS, Java**
+- 💬 Ask me about **Python, C, HTML, CSS**
 
 - 📫 How to reach me **karnikasenthilkumar@gmail.com**
 
